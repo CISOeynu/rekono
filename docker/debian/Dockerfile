@@ -1,4 +1,4 @@
-FROM debian:bookworm-20240423
+FROM debian:12.13
 
 # Environment
 ENV PYTHONDONTWRITEBYTECODE 1
