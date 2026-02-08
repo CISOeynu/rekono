@@ -1,4 +1,4 @@
-FROM nginx:1.22-alpine
+FROM nginx:1.29.5-alpine
 
 # Install requirements
 RUN apk update && apk add openssl
